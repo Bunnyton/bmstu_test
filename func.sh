@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Приятного просмотра'
+echo 'Приятного просмотра!'
 
 telnet towel.blinkenlights.nl
 
