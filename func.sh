@@ -1,8 +1,7 @@
 #!/bin/bash
 set -e
 
-Comment
-echo 'Приятного просмотра'
+echo 'Приятного просмотра!'
 
 telnet towel.blinkenlights.nl
 
